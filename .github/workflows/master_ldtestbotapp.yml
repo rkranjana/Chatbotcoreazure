@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'ldtestbotapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2075a2e7e5994e2eb23546044871c712 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3ae108d1caf642d4b9d8f5345bee41de }}
         package: .
