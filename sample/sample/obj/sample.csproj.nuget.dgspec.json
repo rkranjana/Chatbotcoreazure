@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ranjana.r\\source\\repos\\sample\\sample\\sample.csproj": {}
+    "C:\\Users\\ranjana.r\\Desktop\\chatbotsample\\sample\\sample\\sample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ranjana.r\\source\\repos\\sample\\sample\\sample.csproj": {
+    "C:\\Users\\ranjana.r\\Desktop\\chatbotsample\\sample\\sample\\sample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ranjana.r\\source\\repos\\sample\\sample\\sample.csproj",
+        "projectUniqueName": "C:\\Users\\ranjana.r\\Desktop\\chatbotsample\\sample\\sample\\sample.csproj",
         "projectName": "sample",
-        "projectPath": "C:\\Users\\ranjana.r\\source\\repos\\sample\\sample\\sample.csproj",
+        "projectPath": "C:\\Users\\ranjana.r\\Desktop\\chatbotsample\\sample\\sample\\sample.csproj",
         "packagesPath": "C:\\Users\\ranjana.r\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ranjana.r\\source\\repos\\sample\\sample\\obj\\",
+        "outputPath": "C:\\Users\\ranjana.r\\Desktop\\chatbotsample\\sample\\sample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ranjana.r\\AppData\\Roaming\\NuGet\\NuGet.Config",
